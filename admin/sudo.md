@@ -1,4 +1,4 @@
-## SUDO install in FreeBSD
+## sudo install in FreeBSD
 
 FreeBSD does support sudo it's likely just not installed by default. 
 Installation instructions are here, titled: FreeBSD: Install sudo Command To Execute A Command As The Root.
